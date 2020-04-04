@@ -1,4 +1,9 @@
 package com.atguigu.test;
 
 public class GoodTest {
+
+    public static void main(String[] args) {
+        System.out.println("Test");
+        System.out.println("hot fix...");
+    }
 }
